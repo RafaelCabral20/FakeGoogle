@@ -1,0 +1,198 @@
+.Boogle{
+     position: absolut;
+     text-align: center;
+     white-space: nowrap;
+     height: 7%;
+     width: 10%;
+     font-family: Product Sans;
+     font-size: 44px;
+     background-color:white;
+     align-items: center;
+     width: 100%;
+     margin-bottom: 1%;
+}
+ .texto1 {
+     position: absolut;
+     white-space: nowrap;
+     font-family: Product Sans;
+     font-size: 45px;
+     height: 8%;
+     width: 100%;
+     color: #747474;
+     margin-bottom: 1%;
+     text-align: center;
+}
+ .texto2 {
+     position: absolut;
+     white-space: nowrap;
+     font-family: Product Sans;
+     text-align: center;
+     font-size: 22px;
+     height: 5%;
+     width: 100%;
+     color: #747474;
+}
+ .texto3 {
+     position: absolut;
+     white-space: nowrap;
+     font-family: Product Sans;
+     text-align: center;
+     font-size: 18px;
+     height: 5%;
+     width: 100%;
+     color: #555555;
+     box-sizing: border-box;
+     background-color:white;
+     margin-bottom: 1px;
+     margin:auto;
+}
+ .imagens {
+     border-radius: 4px;
+     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 5px 0 rgba(0, 0, 0, 0.19);
+     display: flex;
+     margin: auto;
+     white-space: nowrap;
+     flex-direction: column;
+     background-color:#f7f7f7;
+     max-width: 450px;
+     height: 80% width: 300px
+}
+ .img1 {
+     box-sizing: border-box;
+     white-space: nowrap;
+     margin-bottom: 10px;
+     margin-top: 50px;
+     background-color:#f7f7f7;
+     text-align: center;
+}
+ .img2 {
+     box-sizing: border-box;
+     white-space: nowrap;
+     margin-bottom: 1px;
+     margin-top: 2px;
+     background-color:white;
+     text-align: center;
+}
+ .enter {
+     display: flex;
+     white-space: nowrap;
+     font-family: Futura,Trebuchet MS,Arial,sans-serif;
+     text-align: left;
+     width: 100%;
+     max-width: 75%;
+     height: 50px;
+     margin:auto;
+     margin-top: 0px;
+     padding: 0px;
+     position: absolut;
+     background-color:#F5F5F5;
+     font-weight: bold;
+     border-style: solid;
+     border-width: 2px;
+     Border-color:#D3D3D3
+}
+ ::placeholder {
+     background-color:#faffba;
+     color:#B0B0B0;
+     font: 20px/3 Futura,Trebuchet MS,Arial,sans-serif;
+}
+ .button1 {
+     white-space: nowrap;
+     font-family: Futura,Trebuchet MS,Arial,sans-serif;
+     text-align: center;
+     box-sizing: border-box;
+     height: 50px;
+     width: 75%;
+     font-size: 15px;
+     color: white;
+     display: inline-block;
+     background-color:#4285F4;
+     margin:auto;
+     border-radius: 5px;
+     border: 1px #4285F4;
+     padding: 12px 24px;
+     font-weight: bold;
+     justify-content: center;
+}
+ button:active{
+     background:blue;
+}
+ input {
+     white-space: nowrap;
+     width: 100%;
+     height: 100%;
+     background-color:#faffba;
+     margin: 0px;
+     border: none;
+}
+ #help {
+     white-space: nowrap;
+     color: #4285F4;
+     text-decoration: none;
+     font: 16px/3 Futura,Trebuchet MS,Arial,sans-serif;
+     font-weight: bold;
+     text-align: right;
+     justify-content: right;
+     padding-right: 12%;
+     margin-bottom: 10%;
+}
+ #help a {
+     color: #4285F4;
+     text-decoration: none;
+}
+ #create {
+     white-space: nowrap;
+     text-decoration: none;
+     font: 16px Futura,Trebuchet MS,Arial,sans-serif;
+     font-weight: bold;
+     text-align: center;
+     margin-bottom: 2%;
+     margin-top: 2%;
+}
+ #create a {
+     text-decoration: none;
+     color: #4285F4;
+}
+ .foot {
+     height: 40px;
+     width: 100%;
+     max-width: 95%;
+     margin-right: 0%;
+     margin-top: 3%;
+     display: flex;
+     white-space: nowrap;
+     justify-content: space-between;
+     flex-direction: row;
+     color: #747474;
+     font: 14px/3 Futura,Trebuchet MS,Arial,sans-serif;
+     font-weight: bold;
+     flex-direction: row-reverse;
+}
+ select {
+     font: 12px/3 Futura,Trebuchet MS,Arial,sans-serif;
+     width: 180px;
+     border-radius: 5px;
+     font-weight: light-bold;
+}
+ .Country {
+     display: flex;
+     flex-direction: row white-space: nowrap;
+     height: 100%;
+     width: 50%;
+}
+ .img3 {
+     margin-top: 3%;
+}
+ .links {
+     height: 20px;
+     width: 100%;
+     margin-left: 5%;
+     margin-right: 50%;
+     display: flex;
+     flex-direction: row white-space: nowrap;
+     justify-content: space-around;
+}
+ .links a {
+     text-decoration: none;
+     color: #747474;
+}
